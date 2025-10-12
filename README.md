@@ -1,1 +1,1 @@
-Ian Joo's personal website
+北海道言語科学会のサイトです。
