@@ -40,7 +40,7 @@ All rows must end with a semi-colon.                      */
   
   html {
     /*-- Main font sizes --*/
-      --title-size:      50px;
+      --title-size:      40px;
     --body-size:       1.06rem;
     --code-size:       14px;
     --aside-size:      12px;
