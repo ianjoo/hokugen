@@ -1,0 +1,10 @@
+---
+title: "北海道言語科学会"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+北海道言語科学会のサイトへようこそ

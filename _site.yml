@@ -1,0 +1,14 @@
+name: "hokugen"
+title: "hokugen"
+theme: theme.css
+description: |
+  北海道言語科学会
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+output: distill::distill_article
+
+include:
+  - index.Rmd
