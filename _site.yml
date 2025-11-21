@@ -6,9 +6,12 @@ description: |
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
+    - text: "ホーム"
       href: index.html
+    - text: "第1回研究会"
+      href: 1.html
 output: distill::distill_article
 
 include:
   - index.Rmd
+  - 1.Rmd
