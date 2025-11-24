@@ -10,7 +10,8 @@ knitr::opts_chunk$set(echo = FALSE)
 **第1回北海道言語科学会研究会**は、**2026年2月28日（土）**に**小樽商科大学**で行われます。
 
  * 参加資格：どなたでもご参加いただけます（道外，海外の方も歓迎）
- * 招待講演：[トーマス・ヴァヌイ Thomas Van Hoey](https://www.thomasvanhoey.com/) (ルーヴェン・カトリック大学)
+ * 招待講演：[トーマス・ヴァヌイ Thomas Van Hoey](https://www.thomasvanhoey.com/) (ルーヴェン・カトリック大学) 
+   * **Accommodating path and manner in the lexical aspect of iconic words**
  * 要旨規定：1000文字以内の日本語，書式自由。言語学関連のテーマは全て可能。
  * 投稿締切：2025年12月31日までに[朱易安のメール](mailto:joo@res.otaru-uc.ac.jp)へ送ってください
  * 結果通知：投稿後、 一週間以内に通知
