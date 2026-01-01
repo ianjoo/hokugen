@@ -1,5 +1,6 @@
 ---
 title: "北海道言語科学会"
+subtitle: "Hokkaido Language Science Society"
 site: distill::distill_website
 ---
 
@@ -7,4 +8,6 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-北海道言語科学会のサイトへようこそ
+北海道言語科学会（北言）のサイトへようこそ
+
+Welcome to the website of the Hokkaido Language Science Society (Hokugen).

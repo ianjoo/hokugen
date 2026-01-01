@@ -1,14 +1,14 @@
-name: "北海道言語科学会"
-title: "北海道言語科学会"
+name: "北海道言語科学会 Hokkaido Language Science Society"
+title: "北海道言語科学会 Hokkaido Language Science Society"
 theme: theme.css
 description: |
-  北海道言語科学会
+  北海道言語科学会 Hokkaido Language Science Society
 output_dir: "docs"
 navbar:
   right:
-    - text: "ホーム"
+    - text: "ホーム Home"
       href: index.html
-    - text: "第1回研究会"
+    - text: "第1回研究会 The 1st Workshop (2026)"
       href: 1.html
 output: distill::distill_article
 
