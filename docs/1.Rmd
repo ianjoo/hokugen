@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
  * 要旨規定：1000文字以内の日本語、または500単語以内の英語。書式自由。言語学関連のテーマは全て可能。
    * Abstract: Max. 500 words in English or 1,000 characters in Japanese. Free format. Any subfield of linguistics welcome.
  * 投稿締切：2026年1月31日までに[朱易安のメール](mailto:joo@res.otaru-uc.ac.jp)へ送ってください
-   * Submission deadline: Please send your abstract to [Ian Joo's email address](mailto:joo@res.otaru-uc.ac.jp)
+   * Submission deadline: Please send your abstract to [Ian Joo's email address](mailto:joo@res.otaru-uc.ac.jp) by 31 January 2026
  * 結果通知：投稿後、 一週間以内に通知
    * Results notification: Within a week after the submission
  * 登録料金：1000円
