@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
  * 参加資格：どなたでもご参加いただけます（道外，海外の方も歓迎）
     * Partipants: Anyone can participate, Hokkaido resident or not, regardless of nationality.
  * 招待講演：[トーマス・ヴァヌイ](https://www.thomasvanhoey.com/) (ルーヴェン・カトリック大学) 
-   * Invitated speaker: [Thomas Van Hoey](https://www.thomasvanhoey.com/) (UCLouvain) 
+   * Invited speaker: [Thomas Van Hoey](https://www.thomasvanhoey.com/) (UCLouvain) 
      * **Accommodating path and manner in the lexical aspect of iconic words**
  * 要旨規定：1000文字以内の日本語、または500単語以内の英語。書式自由。言語学関連のテーマは全て可能。
    * Abstract: Max. 500 words in English or 1,000 characters in Japanese. Free format. Any subfield of linguistics welcome.
