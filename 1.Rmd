@@ -17,6 +17,8 @@ knitr::opts_chunk$set(echo = FALSE)
  * 招待講演：[トーマス・ヴァヌイ](https://www.thomasvanhoey.com/) (ルーヴェン・カトリック大学) 
    * Invited speaker: [Thomas Van Hoey](https://www.thomasvanhoey.com/) (UCLouvain) 
      * **Accommodating path and manner in the lexical aspect of iconic words**
+ * 使用言語：日本語と英語
+   * Languages used in the workshop: English and Japanese
  * 要旨規定：1000文字以内の日本語、または500単語以内の英語。書式自由。言語学関連のテーマは全て可能。
    * Abstract: Max. 500 words in English or 1,000 characters in Japanese. Free format. Any subfield of linguistics welcome.
  * 投稿締切：2026年1月31日までに[朱易安のメール](mailto:joo@res.otaru-uc.ac.jp)へ送ってください
