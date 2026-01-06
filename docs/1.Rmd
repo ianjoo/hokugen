@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
  * 参加資格：どなたでもご参加いただけます（道外，海外の方も歓迎）
     * Partipants: Anyone can participate, Hokkaido resident or not, regardless of nationality.
  * 招待講演：[トーマス・ヴァヌイ](https://www.thomasvanhoey.com/) (ルーヴェン・カトリック大学) 
-   * Invited speaker: [Thomas Van Hoey](https://www.thomasvanhoey.com/) (UCLouvain) 
+   * Invited speaker: [Thomas Van Hoey](https://www.thomasvanhoey.com/) (KU Leuven) 
      * **Accommodating path and manner in the lexical aspect of iconic words**
  * 使用言語：日本語と英語
    * Languages used in the workshop: English and Japanese
