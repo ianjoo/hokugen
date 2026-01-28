@@ -14,10 +14,10 @@ knitr::opts_chunk$set(echo = FALSE)
   
  * 参加資格：どなたでもご参加いただけます（道外，海外の方も歓迎）
     * Partipants: Anyone can participate, Hokkaido resident or not, regardless of nationality.
- * 招待講演（1）：[トーマス・ヴァヌイ](https://www.thomasvanhoey.com/) (ルーヴェン・カトリック大学) 
-   * Invited speaker 1: [Thomas Van Hoey](https://www.thomasvanhoey.com/) (KU Leuven) 
+ * 招待講演（1）：[トーマス・ヴァヌイ](https://www.thomasvanhoey.com) (ルーヴェン・カトリック大学) 
+   * Invited speaker 1: [Thomas Van Hoey](https://www.thomasvanhoey.com) (KU Leuven) 
      * **Accommodating path and manner in the lexical aspect of iconic words**
- * 招待講演（2）：[ルイス・ミゲル・ロハス・ベルシア](https://www.thomasvanhoey.com/) (ラドバウド大学) 
+ * 招待講演（2）：[ルイス・ミゲル・ロハス・ベルシア](https://www.ru.nl/en/people/rojas-berscia-l) (ラドバウド大学) 
    * Invited speaker 2: [Luis Miguel Rojas Berscia](https://www.ru.nl/en/people/rojas-berscia-l) (Radboud U) 
      * **Languoid in layers: a brief appetiser to the Dynamic approach from Shawi, Kukatja and Wolof**
  * 使用言語：日本語と英語
