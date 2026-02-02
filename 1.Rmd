@@ -45,7 +45,7 @@ opts_chunk$set(echo = FALSE)
 プログラム Program (`r Sys.Date()`)
  
 ```{r}
-Program <- read_xlsx('Hokugen2026Program.xlsx') %>% 
+Program <- read_csv('Hokugen2026Program.csv') %>% 
   mutate(Time = as_hms(Time))
 
 datatable(Program, rownames = FALSE, option = list(scrollX = TRUE))
