@@ -4,7 +4,7 @@ subtitle: "The 1st Workshop"
 site: distill::distill_website
 ---
 
-```{r setup, include = FALSE}
+```{r setup, include=FALSE}
 library(knitr)
 library(readxl)
 library(tidyverse)
@@ -13,7 +13,6 @@ library(DT)
 library(hms)
 
 opts_chunk$set(echo = FALSE)
-
 ```
 
 # 第1回研究会 The 1st Workshop
