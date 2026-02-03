@@ -53,7 +53,7 @@ Program <- read_csv('Hokugen2026Program.csv')
 
 datatable(Program, 
           rownames = FALSE, 
-          option = list(pageLength = 20))
+          option = list(scrollX = TRUE, pageLength = 20))
 ```
 
 
