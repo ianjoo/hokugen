@@ -38,6 +38,11 @@ opts_chunk$set(echo = FALSE)
    * Results notification: Within a week after the submission
  * 登録料金：1000円
    * Registration fee: 1,000 yen
+   
+# 登録 Registration
+
+ * 発表者でない方で参加をご希望の場合は、[朱易安](mailto:joo@res.otaru-uc.ac.jp)までメールをお送りください。
+ * If you are a non-presenter wishing to participate, please send an e-mail to [Ian Joo](mailto:joo@res.otaru-uc.ac.jp).
 
 # プログラム Program
 
