@@ -1,6 +1,6 @@
 ---
 title: "第1回研究会"
-subtitle: "The 1st Workshop"
+description: "The 1st Workshop"
 site: distill::distill_website
 ---
 
@@ -10,7 +10,6 @@ library(readxl)
 library(tidyverse)
 library(leaflet)
 library(DT)
-library(hms)
 
 opts_chunk$set(echo = FALSE)
 ```
@@ -41,7 +40,13 @@ opts_chunk$set(echo = FALSE)
    * Registration fee: 1,000 yen
 
 # プログラム Program
- 
+
+```{r}
+Program <- read_csv('Hokugen2026Program.csv')
+
+datatable(Program, rownames = FALSE, option = list(scrollX = TRUE))
+```
+
 プログラム Program (`r Sys.Date()`)
  
 
