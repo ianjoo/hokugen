@@ -1,6 +1,6 @@
 ---
 title: "第1回研究会"
-description: "The 1st Workshop"
+subtitle: "The 1st Workshop"
 site: distill::distill_website
 ---
 
@@ -9,9 +9,10 @@ library(knitr)
 library(readxl)
 library(tidyverse)
 library(leaflet)
-library(DT)
+library(kableExtra)
 
 opts_chunk$set(echo = FALSE)
+options(knitr.kable.NA = '')
 ```
 
 # 第1回研究会 The 1st Workshop
@@ -51,9 +52,7 @@ Updated on `r Sys.Date()` 更新
 ```{r}
 Program <- read_csv('Hokugen2026Program.csv')
 
-datatable(Program, 
-          rownames = FALSE, 
-          option = list(scrollX = TRUE, pageLength = 20))
+kable(Program)
 ```
 
 
