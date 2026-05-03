@@ -34,10 +34,19 @@ opts_chunk$set(echo = FALSE)
  * 登録料金：1000円
    * Registration fee: 1,000 yen
    
+# Invited speakers
+
+![](Parti.jpg){width=30%}
+
+ * [パルティ・ガーボル](https://partigabor.github.io)（香港理工大学） [**Parti** Gábor](https://partigabor.github.io) (The Hong Kong Polytechnic University)
+ * 今後追加予定 More speakers to be confirmed
+   
 # 登録 Registration
 
  * 発表者でない方で参加をご希望の場合は、[朱易安](mailto:joo@res.otaru-uc.ac.jp)までメールをお送りください。
- * If you are a non-presenter wishing to participate, please send an e-mail to [Ian Joo](mailto:joo@res.otaru-uc.ac.jp).
+  * If you are a non-presenter wishing to participate, please send an e-mail to [Ian Joo](mailto:joo@res.otaru-uc.ac.jp).
+ 
+# 見学 Field trip
 
  * **1月11日**は、アイヌ民族の歴史と文化について学ぶため、**ウポポイ（国立アイヌ民族博物館）**への見学があります。
-   * On **11 January**, there will be an excursion to **Upopoy (National Ainu Museum and Park)** to learn about the history and culture of the Ainu people.
+   * On **11 January**, there will be a field trip to **Upopoy (National Ainu Museum and Park)** to learn about the history and culture of the Ainu people.
