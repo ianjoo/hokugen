@@ -38,8 +38,14 @@ opts_chunk$set(echo = FALSE)
 
 ![](Parti.jpg){width=30%}
 
- * [パルティ・ガーボル](https://partigabor.github.io)（香港理工大学） [**Parti** Gábor](https://partigabor.github.io) (The Hong Kong Polytechnic University)
+ * [パルティ・ガーボル](https://partigabor.github.io)（香港理工大学）<br> [**Parti** Gábor](https://partigabor.github.io) (The Hong Kong Polytechnic University)
+
+![](Shawn.jpg){width=30%}
+
+ * [ショーン・クランキー](https://partigabor.github.io)（小樽商科大学）<br> [Shawn **Clankie**](https://researchmap.jp/read0113808) (Otaru University of Commerce)
+   * Understanding genericization in brand names: The linguistics behind the household name
  * 今後追加予定 More speakers to be confirmed
+
    
 # 登録 Registration
 
