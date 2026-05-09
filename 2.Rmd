@@ -34,7 +34,7 @@ opts_chunk$set(echo = FALSE)
  * 登録料金：1000円
    * Registration fee: 1,000 yen
    
-# Invited speakers
+# 招待講演者 Invited speakers
 
 ![](Parti.jpg){width=30%}
 
@@ -42,7 +42,7 @@ opts_chunk$set(echo = FALSE)
 
 ![](Shawn.jpg){width=30%}
 
- * [ショーン・クランキー](https://partigabor.github.io)（小樽商科大学）<br> [Shawn **Clankie**](https://researchmap.jp/read0113808) (Otaru University of Commerce)
+ * [ショーン・クランキー](https://researchmap.jp/read0113808)（小樽商科大学）<br> [Shawn **Clankie**](https://researchmap.jp/read0113808) (Otaru University of Commerce)
    * Understanding genericization in brand names: The linguistics behind the household name
  * 今後追加予定 More speakers to be confirmed
 
@@ -50,7 +50,8 @@ opts_chunk$set(echo = FALSE)
 # 登録 Registration
 
  * 発表者でない方で参加をご希望の場合は、[朱易安](mailto:joo@res.otaru-uc.ac.jp)までメールをお送りください。
-  * If you are a non-presenter wishing to participate, please send an e-mail to [Ian Joo](mailto:joo@res.otaru-uc.ac.jp).
+ 
+   * If you are a non-presenter wishing to participate, please send an e-mail to [Ian Joo](mailto:joo@res.otaru-uc.ac.jp).
  
 # 見学 Field trip
 
