@@ -40,10 +40,16 @@ opts_chunk$set(echo = FALSE)
 
  * [パルティ・ガーボル](https://partigabor.github.io)（香港理工大学）<br> [**Parti** Gábor](https://partigabor.github.io) (The Hong Kong Polytechnic University)
 
-![](Shawn.jpg){width=30%}
+![](Clankie.jpg){width=30%}
 
  * [ショーン・クランキー](https://researchmap.jp/read0113808)（小樽商科大学）<br> [Shawn **Clankie**](https://researchmap.jp/read0113808) (Otaru University of Commerce)
    * Understanding genericization in brand names: The linguistics behind the household name
+
+![](Iida.jpg){width=30%}
+
+ * [飯田雛乃](https://sites.google.com/view/hinanoiida)（名古屋大学）<br> [**Iida** Hinano](https://sites.google.com/view/hinanoiida) (Nagoya University)
+   * Language and individual differences in novel onomatopoeia creation
+
  * 今後追加予定 More speakers to be confirmed
 
    
