@@ -39,6 +39,7 @@ opts_chunk$set(echo = FALSE)
 ![](Parti.jpg){width=30%}
 
  * [パルティ・ガーボル](https://partigabor.github.io)（香港理工大学）<br> [**Parti** Gábor](https://partigabor.github.io) (The Hong Kong Polytechnic University)
+   * When words taste false: Linguistic labels of authenticity
 
 ![](Clankie.jpg){width=30%}
 
