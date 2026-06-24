@@ -51,6 +51,8 @@ opts_chunk$set(echo = FALSE)
  * [飯田雛乃](https://sites.google.com/view/hinanoiida)（名古屋大学）<br> [**Iida** Hinano](https://sites.google.com/view/hinanoiida) (Nagoya University)
    * Language and individual differences in novel onomatopoeia creation
 
+![](Hsu.jpg){width=25%}
+
  * [許又尹](https://sites.google.com/site/youyinxu)（香港理工大学）<br> [**Hsu** Yu-Yin](https://sites.google.com/site/youyinxu) (The Hong Kong Polytechnic University)
    * Understanding the scope interpretations of embedded wh-questions in Chinese
    
