@@ -46,6 +46,10 @@ opts_chunk$set(echo = FALSE)
  * [飯田雛乃](https://sites.google.com/view/hinanoiida)（名古屋大学）<br> [**Iida** Hinano](https://sites.google.com/view/hinanoiida) (Nagoya University)
    * Language and individual differences in novel onomatopoeia creation
    
+# 採択論文（現時点まで） <br> <br> Accepted papers (so far)
+
+ * "*Wh*-topicalization in adult English speakers' L2 Chinese", Stano Kong (Tunghai University)
+ 
 # 登録 Registration
 
  * 発表者でない方で参加をご希望の場合は、[朱易安](mailto:joo@res.otaru-uc.ac.jp)までメールをお送りください。
