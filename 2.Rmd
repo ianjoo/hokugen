@@ -53,6 +53,7 @@ opts_chunk$set(echo = FALSE)
  * "The iconic patterns in the animal vocabulary of Hokkaido Sign Language", Funaki Ryouka (Otaru University of Commerce)
  * "A semantic analysis of Ainu personal names", Kiru Ema (Otaru University of Commerce)
  * "The semantic and geographical distribution of *kowai* in Japanese dialects", Kurata Shumpei (Otaru University of Commerce)
+ * "Reconsidering the origins of ‘eight’ and ‘nine’ from an archaic word for ‘ten’ in Ainu", Izumi Ochiai (Asahikawa City University)
  
 # 登録 Registration
 
