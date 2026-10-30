@@ -56,6 +56,7 @@ opts_chunk$set(echo = FALSE)
  * "Reconsidering the origins of ‘eight’ and ‘nine’ from an archaic word for ‘ten’ in Ainu", Izumi Ochiai (Asahikawa City University)
  * 『雑談会話における未完了の「離脱」――会話参与者の話しかけに着目して』　湯梧坷（千葉大学）
  * "More than morphology: How phonological-semantic overlap influences lexical processing", Laura Gonnerman (University of New Hampshire)
+ * "The eternal language vs dialect question: a case study from northern Sweden", Rogier Blokland (Uppsala University)
  
 # 登録 Registration
 
