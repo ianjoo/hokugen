@@ -58,6 +58,7 @@ opts_chunk$set(echo = FALSE)
  * "More than morphology: How phonological-semantic overlap influences lexical processing", Laura Gonnerman (University of New Hampshire)
  * "The eternal language vs dialect question: a case study from northern Sweden", Rogier Blokland (Uppsala University)
  * "Moving the other way: change on an Australian post-Creole continuum", Thomas Batchelor (Kyushu University)
+ * "Shifting frames, creating forms: Re-evaluating linguistic competence through Construction Grammar and humor", Nuttanart Muansuwan (King Mongkut's University of Technology Thonburi)
  
 # 登録 Registration
 
