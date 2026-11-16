@@ -46,20 +46,18 @@ opts_chunk$set(echo = FALSE)
  * [飯田雛乃](https://sites.google.com/view/hinanoiida)（名古屋大学）<br> [**Iida** Hinano](https://sites.google.com/view/hinanoiida) (Nagoya University)
    * Language and individual differences in novel onomatopoeia creation
    
-# 採択論文（現時点まで） <br> <br> Accepted papers (so far)
+# プログラム Program
 
- * "*Wh*-topicalization in adult English speakers' L2 Chinese", Stano Kong (Tunghai University)
- * "Object Marking in Konerau and across the Muli Strait", Seth N. Wyatt (University of New Mexico)
- * "The iconic patterns in the animal vocabulary of Hokkaido Sign Language", Funaki Ryouka (Otaru University of Commerce)
- * "A semantic analysis of Ainu personal names", Kiriu Ema (Otaru University of Commerce)
- * "The semantic and geographical distribution of *kowai* in Japanese dialects", Kurata Shumpei (Otaru University of Commerce)
- * "Reconsidering the origins of ‘eight’ and ‘nine’ from an archaic word for ‘ten’ in Ainu", Izumi Ochiai (Asahikawa City University)
- * 『雑談会話における未完了の「離脱」――会話参与者の話しかけに着目して』　湯梧坷（千葉大学）
- * "More than morphology: How phonological-semantic overlap influences lexical processing", Laura Gonnerman (University of New Hampshire)
- * "The eternal language vs dialect question: a case study from northern Sweden", Rogier Blokland (Uppsala University)
- * "Moving the other way: change on an Australian post-Creole continuum", Thomas Batchelor (Kyushu University)
- * "Shifting frames, creating forms: Re-evaluating linguistic competence through Construction Grammar and humor", Nuttanart Muansuwan (King Mongkut's University of Technology Thonburi)
- 
+```{r}
+Program <- read_xlsx('Hokugen2Program.xlsx') |> 
+  mutate(Time = format(Time, "%H:%M", tz = "UTC"))
+
+datatable(Program, 
+          rownames = FALSE, 
+          option = list(scrollX = TRUE, pageLength = nrow(Program)))
+```
+
+
 # 登録 Registration
 
  * 発表者でない方で参加をご希望の場合は、[朱易安](mailto:joo@res.otaru-uc.ac.jp)までメールをお送りください。
